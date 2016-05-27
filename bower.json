@@ -8,6 +8,5 @@
   "description": "AngularJS v1.4.4 with no window.name assignments",
   "main": "./angular.js",
   "ignore": [],
-  "dependencies": {},
-  "private": true
+  "dependencies": {}
 }
