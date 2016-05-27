@@ -1,0 +1,13 @@
+{
+  "name": "angular",
+  "version": "1.4.4-no-windowname.0",
+  "license": "MIT",
+  "authors": [
+    "Pavel Mezhuev <mp710@ya.ru>"
+  ],
+  "description": "AngularJS v1.4.4 with no window.name assignments",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "private": true
+}
